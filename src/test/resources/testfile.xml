@@ -1,0 +1,7 @@
+<suite name="Automation Suite">
+    <test name="Longest Substring Test">
+        <classes>
+            <class name="LongestSubstringTest"/>
+        </classes>
+    </test>
+</suite>
